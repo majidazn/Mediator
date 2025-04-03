@@ -1,5 +1,3 @@
-### **README for Custom Mediator in C#**  
-
 # **Custom Mediator**  
 A lightweight **CQRS Mediator** implementation in C# without dependencies like `MediatR`. This library helps in decoupling request handling logic and supports **automatic dependency injection** of handlers.  
 
